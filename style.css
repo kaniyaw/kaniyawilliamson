@@ -2,12 +2,20 @@ h1{
   color:Blue;
 }
 .container{
-  background-color: Pink;
-}
-Body{
-  background-color: Purple;
-}
-.navbar{
-  background-image:url("https://i.ytimg.com/vi/g0FRt0CNhbo/maxresdefault.jpg");
+  background-image:url("https://www.publicdomainpictures.net/pictures/80000/velka/soft-purple-sunset.jpg")
 
 }
+Body{
+  background-color: purple;
+}
+.navbar{
+
+}
+.login {
+  cursor: pointer;
+  float: right;
+}
+.login a:active {
+position:relative;
+top:5px;
+ }
