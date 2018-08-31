@@ -8,9 +8,12 @@ h1{
 Body{
   background-color: purple;
 }
-.navbar{
-
+.navbar li {
+  display: inline-flex;
 }
+
+
+
 .login {
   cursor: pointer;
   float: right;
