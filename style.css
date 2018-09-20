@@ -7,6 +7,7 @@ h1{
 }
 Body{
   background-color: purple;
+
 }
 .navbar li {
   display: inline-flex;
@@ -15,10 +16,25 @@ Body{
 
 
 .login {
-  cursor: pointer;
   float: right;
 }
+.login a{
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #191970
+
+}
 .login a:active {
-position:relative;
-top:5px;
+  position:relative;
+  top: 3px;
  }
+.cotton candy{
+  color:pink;
+}
+.sky{
+  color:blue;
+}
+.royal{
+  color:purple;
+}
